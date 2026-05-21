@@ -1,8 +1,19 @@
 {
   "users": {
     "8323557109": {
-      "enabled": false,
-      "codes": []
+      "enabled": true,
+      "codes": [
+        "9f6f678db309e44cbe4beb3d232064d990317bf768d3a093660769d9b71b4939",
+        "8d23bd26e0f32161ca465df15f41440e92b8e6ec9f85f3e7bd4c7f50636ca716",
+        "88e4cd46bc484a76ab8da8735485a16546fdf30ef19fba924666180e780b465c",
+        "d182eab4cd79dad7ce5120d4f56b4575f43b84943bfe3fcc55cf2ad0f8b8650c",
+        "73007e2755181bfcb1897faaaa6e13c1df641ca4ed15599902a554a7e51bf7bc",
+        "def3b6a8521dd423c23bb368b738ffe9f2dcc069aa9eda8946ef332bcb0c0d72",
+        "d376ab0cf2cf1dfc745ff005ae8c9a0125b205212bc34896d78fc46b44079e1a",
+        "b93b4cec672fd304d1a0f8dedbf02596cf656e7c4ddae407bc206b350fe1ad11",
+        "cea7b2f69963c2d76abc4b4288d974f038cb7729a28c96de82c6d56ec27c723a",
+        "95d3984296f3cbc4de547f0c065d5e4d7af708ad7ca1fb46eaad9b7547c97c10"
+      ]
     }
   }
 }
