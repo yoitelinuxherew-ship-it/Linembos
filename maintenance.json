@@ -1,4 +1,4 @@
 {
-  "maintenance_mode": true,
-  "message": "⛔ Bot sedang dalam perawatan. Silakan coba lagi nanti."
+  "maintenance_mode": false,
+  "message": "⛔ Bot sedang maintenance. Silakan coba lagi nanti."
 }
