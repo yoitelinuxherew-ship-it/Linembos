@@ -1,4 +1,4 @@
 {
-  "lockdown": false,
+  "lockdown": true,
   "message": "🔒 server information system in running the program"
 }
