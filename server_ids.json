@@ -1,5 +1,7 @@
 {
-  "allowed": [
-    "85927a8f8923f120fd6dd04d26b4c077ea84e8ec02895b915718b7a4110b2b91"
+  "servers": [
+    "ser",
+    "serve",
+    "v"
   ]
 }
